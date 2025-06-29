@@ -14,7 +14,7 @@
 
 \[ English | [中文](README_zh.md) \]
 
-## LLaMA Board: A One-stop Web UI for Getting Started with LLaMA Factory
+## LLaMA Board: A One-stop Web UI for Getting Started with LLaMA Factory_non_sync
 
 Preview LLaMA Board at **[🤗 Spaces](https://huggingface.co/spaces/hiyouga/LLaMA-Board)** or **[ModelScope](https://modelscope.cn/studios/hiyouga/LLaMA-Board)**.
 
